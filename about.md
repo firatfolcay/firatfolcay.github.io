@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![](https://github.com/firatfolcay/firatfolcay.github.io/blob/master/assets/mypic.jpeg?raw=true)
+![100,100](https://github.com/firatfolcay/firatfolcay.github.io/blob/master/assets/mypic.jpeg?raw=true)
 
 I am a 4th grade computer science student at Turkish-German University. I like
 programming and I am interested in cybersecurity. I try to participate in CTFs in and
