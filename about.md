@@ -4,7 +4,7 @@ title: About
 ---
 
 ![](https://github.com/firatfolcay/firatfolcay.github.io/blob/master/assets/mypic.jpg?width="10")
-![](https://github.com/firatfolcay/firatfolcay.github.io/blob/master/assets/mypic.jpg?width="10")
+
 I am a 4th grade computer science student at Turkish-German University. I like
 programming and I am interested in cybersecurity. I try to participate in CTFs in and
 outside my country to gain experience and solve them. During my internship, I worked on
