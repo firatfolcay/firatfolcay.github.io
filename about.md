@@ -15,6 +15,7 @@ further. I finally decide to pursue a IT career. In this Website I will post abo
 I found online(Machine learning, Cybersecurity, Networking etc.).
 
 
+
  LinkedIn: https://www.linkedin.com/in/f%C4%B1rat-fuat-olcay-a93984147/
  
  Resume: https://drive.google.com/file/d/17Axu_hExITtG2igEX3xA5dbJMz2iZKcT/view?usp=sharing
