@@ -14,3 +14,7 @@ aspects of computer science to decide which side of the career spectrum I want t
 further. I finally decide to pursue a IT career. In this Website I will post about interesting stuff
 I found online(Machine learning, Cybersecurity, Networking etc.).
 
+
+ LinkedIn: https://www.linkedin.com/in/f%C4%B1rat-fuat-olcay-a93984147/
+ Resumee: https://drive.google.com/file/d/17Axu_hExITtG2igEX3xA5dbJMz2iZKcT/view?usp=sharing
+
