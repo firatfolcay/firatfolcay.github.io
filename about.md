@@ -16,7 +16,7 @@ I found online(Machine learning, Cybersecurity, Networking etc.).
 
 
 
- LinkedIn: [https://www.linkedin.com/in/f%C4%B1rat-fuat-olcay-a93984147/]((https://www.linkedin.com/in/f%C4%B1rat-fuat-olcay-a93984147/))
+ LinkedIn: [https://www.linkedin.com/in/firat_fuat_olcay](https://www.linkedin.com/in/f%C4%B1rat-fuat-olcay-a93984147/)
  
  Resume: [Fırat_Fuat_Olcay.pdf](https://drive.google.com/file/d/17Axu_hExITtG2igEX3xA5dbJMz2iZKcT/view?usp=sharing)
 
